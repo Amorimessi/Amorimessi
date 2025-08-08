@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu sou um jovem estudante<br>Conhecimentos em áreas como<br>- Economia<br>- Tecnologia<br>- Engenharias<br>- Ciências farmacêuticas<br><br>Tenho ciência de <br>- Banco de Dados<br>- VsCode<br>-#C e Java
+Eu sou um jovem estudante<br>Conhecimentos em áreas como<br>- Economia<br>- Tecnologia<br>- Análise de Dados<br>- Power BI<br><br>
 
 
 ## 🌐 Socials:
